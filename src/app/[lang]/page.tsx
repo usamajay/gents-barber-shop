@@ -79,7 +79,7 @@ export default function Home() {
                             <p className="text-neutral-600 mb-8 leading-relaxed">
                                 Expert precision for a sharp, modern look.
                             </p>
-                            <span className="text-gold-600 font-bold block">2.5 OMR</span>
+                            <span className="text-gold-600 font-bold block">2 OMR</span>
                             <div className="absolute bottom-0 left-0 w-full h-1 bg-gold-500 scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
                         </div>
 
@@ -92,7 +92,7 @@ export default function Home() {
                             <p className="text-neutral-600 mb-8 leading-relaxed">
                                 Professional trimming and shaping for a perfect beard.
                             </p>
-                            <span className="text-gold-600 font-bold block">2.0 OMR</span>
+                            <span className="text-gold-600 font-bold block">1.500 OMR</span>
                             <div className="absolute bottom-0 left-0 w-full h-1 bg-gold-500 scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
                         </div>
 
@@ -105,7 +105,7 @@ export default function Home() {
                             <p className="text-neutral-600 mb-8 leading-relaxed">
                                 Complete grooming package for hair and beard.
                             </p>
-                            <span className="text-gold-600 font-bold block">4.0 OMR</span>
+                            <span className="text-gold-600 font-bold block">3.0 OMR</span>
                             <div className="absolute bottom-0 left-0 w-full h-1 bg-gold-500 scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
                         </div>
 
@@ -118,7 +118,7 @@ export default function Home() {
                             <p className="text-neutral-600 mb-8 leading-relaxed">
                                 Gentle and stylish cuts for the little ones.
                             </p>
-                            <span className="text-gold-600 font-bold block">4.0 OMR</span>
+                            <span className="text-gold-600 font-bold block">3.0 OMR</span>
                             <div className="absolute bottom-0 left-0 w-full h-1 bg-gold-500 scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
                         </div>
                     </div>
