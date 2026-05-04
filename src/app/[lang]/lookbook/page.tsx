@@ -12,6 +12,7 @@ export default function GalleryPage() {
     const t = useTranslations('GalleryPage');
 
     return (
+        
         <main className="min-h-screen pt-32 pb-24 bg-primary-950 overflow-hidden">
             <div className="container mx-auto px-6 md:px-12 text-center mb-16 animate-fade-in">
                 <h1 className="text-4xl md:text-5xl font-serif font-bold text-neutral-900 mb-6">{t('title')}</h1>

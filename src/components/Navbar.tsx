@@ -1,4 +1,4 @@
-'use client';
+ 'use client';
 
 import { Link, usePathname } from '@/i18n/navigation';
 import { useTranslations } from 'next-intl';
