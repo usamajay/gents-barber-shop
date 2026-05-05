@@ -36,22 +36,22 @@
             "haircut": {
                 "name": "Haircut / Hairfade",
                 "duration": "30 mins",
-                "price": "2.5"
+                "price": "2.0"
             },
             "beard": {
                 "name": "Beard Cut / Beard Shave",
                 "duration": "20 mins",
-                "price": "2.0"
+                "price": "1.5"
             },
             "package": {
                 "name": "Haircut & Beard Cut",
-                "duration": "45 mins",
+                "duration": "60 mins",
                 "price": "3.5"
             },
             "kids": {
                 "name": "Kids Cut",
-                "duration": "20 mins",
-                "price": "4.0"
+                "duration": "45 mins",
+                "price": "3.0"
             }
         }
     },

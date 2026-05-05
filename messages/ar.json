@@ -36,22 +36,22 @@
             "haircut": {
                 "name": "قص شعر كلاسيكي",
                 "duration": "30 دقيقة",
-                "price": "2.5"
+                "price": "2.0"
             },
             "beard": {
                 "name": "تحديد وتهذيب اللحية",
-                "duration": "15 دقيقة",
-                "price": "2.0"
+                "duration": "20 دقيقة",
+                "price": "1.5"
             },
             "package": {
                 "name": "باقة العناية الكاملة",
-                "duration": "45 دقيقة",
+                "duration": "60 دقيقة",
                 "price": "3.5"
             },
             "kids": {
                 "name": "حلاقة أطفال",
-                "duration": "20 دقيقة",
-                "price": "4.0"
+                "duration": "45 دقيقة",
+                "price": "3.0"
             }
         }
     },
